@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6978</ID>
+      <Description>"ADVANCED POWER PLANT"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>44</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"ARTILLERY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4086</ID>
+      <Description>"ARTILLERY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5564</ID>
+      <Description>"ATTACK BUGGY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>60</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3517</ID>
+      <Description>"ATTACK CYCLE"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"BANSHEE"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E2424</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>872</ID>
+      <Description>"CYBORG"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E4014</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>58</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>910</ID>
+      <Description>"CYBORG COMMANDO"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E4014</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>30</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6547</ID>
+      <Description>"CYBORG REAPER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>8C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"DEVIL'S TONGUE"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>5C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3364</ID>
+      <Description>"EMP CANNON"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1447</ID>
+      <Description>"ENGINEER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E4014</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6702</ID>
+      <Description>"FIST OF NOD"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>A8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4438</ID>
+      <Description>"GATE L"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>94</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4537</ID>
+      <Description>"GATE R"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>98</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>350</ID>
+      <Description>"HAND OF NOD"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>40</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7150</ID>
+      <Description>"HARPY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E2424</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>10</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2438</ID>
+      <Description>"HARVESTER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4056</ID>
+      <Description>"HELIPAD"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>28C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5627</ID>
+      <Description>"LASER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>B4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6247</ID>
+      <Description>"LASER FANCE POST"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>AC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>752</ID>
+      <Description>"LIGHT INFANTRY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E4014</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5695</ID>
+      <Description>"LIMPET DRONE"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>98</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6422</ID>
+      <Description>"MISSILE SILO"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>A4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5926</ID>
+      <Description>"MOBILE CONSTRUCTION VEHICLE"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4963</ID>
+      <Description>"MOBILE REPAIR VEHICLE"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>4C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4995</ID>
+      <Description>"MOBILE SENSOR ARRAY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>48</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7193</ID>
+      <Description>"MOBILE STEALTH GENERATOR"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>A0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"MONEY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E2284</Address>
+      <Offsets>
+        <Offset>1A4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1156</ID>
+      <Description>"MONEY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0080F55C</Address>
+      <Offsets>
+        <Offset>1A4</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6606</ID>
+      <Description>"MUTANT HIJACKER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E4014</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>3C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>110</ID>
+      <Description>"NOD POWER PLANT"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>38</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2390</ID>
+      <Description>"NOD RADAR"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6764</ID>
+      <Description>"NOD TECH CENTER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>3C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4391</ID>
+      <Description>"NOD WALL"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>88</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4272</ID>
+      <Description>"NOD WAR FACTORY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>5C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"OBELISK OF LIGHT"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>A0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5888</ID>
+      <Description>"PAVEMENT"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>2A0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>822</ID>
+      <Description>"ROCKET INFANTRY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E4014</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3849</ID>
+      <Description>"SAM"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>B8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6285</ID>
+      <Description>"STEALTH GENERATOR"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>60</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6069</ID>
+      <Description>"STEALTH TANK"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>28</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6009</ID>
+      <Description>"SUBTERRANEAN APC"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6359</ID>
+      <Description>"TEMPLE OF NOD"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>90</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>221</ID>
+      <Description>"TIBERIUM REFINERY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>384</ID>
+      <Description>"TIBERIUM SILO"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6484</ID>
+      <Description>"TIBERIUM WASTE FACILITY"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E21A4</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>9C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4154</ID>
+      <Description>"TICK TANK"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>38</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7012</ID>
+      <Description>"WEED EATER"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>007E221C</Address>
+      <Offsets>
+        <Offset>324</Offset>
+        <Offset>80</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
